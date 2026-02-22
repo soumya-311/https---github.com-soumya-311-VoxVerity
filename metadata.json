@@ -1,0 +1,8 @@
+
+{
+  "name": "VoxVerity AI Voice Detector",
+  "description": "A sophisticated tool to distinguish between human and AI-generated speech using advanced spectral analysis and machine learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
